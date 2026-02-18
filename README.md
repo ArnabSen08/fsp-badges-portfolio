@@ -12,6 +12,8 @@ This portfolio displays 9 professional certifications across various technology 
 - **Artificial Intelligence** - Future of AI insights
 - **Web & Mobile Development** - Industry trends and applications
 
+![I'm AI Sashakt Badge](ai-impact-pledge-badge.png)
+
 ## 🚀 Features
 
 - **Responsive Design** - Works perfectly on desktop, tablet, and mobile devices
